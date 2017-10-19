@@ -1,0 +1,47 @@
+Mono path[0] = 'D:/Repositorios/Unity3D_ARDevelopment/Vuforia_AR/terst_Data/Managed'
+Mono path[1] = 'D:/Repositorios/Unity3D_ARDevelopment/Vuforia_AR/terst_Data/Mono'
+Mono config path = 'D:/Repositorios/Unity3D_ARDevelopment/Vuforia_AR/terst_Data/Mono/etc'
+PlayerConnection initialized from D:/Repositorios/Unity3D_ARDevelopment/Vuforia_AR/terst_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55260
+Multi-casting "[IP] 192.168.1.42 [Port] 55260 [Flags] 2 [Guid] 1728296235 [EditorId] 1573220223 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-H2MKFB0) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55260]
+PlayerConnection already initialized - listening to [0.0.0.0:55260]
+Player data archive not found at `D:/Repositorios/Unity3D_ARDevelopment/Vuforia_AR/terst_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.3p1 (9c92e827232b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) R7 360 Series (ID=0x665f)
+    Vendor:   ATI
+    VRAM:     2025 MB
+    Driver:   22.19.162.4
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Repositorios\Unity3D_ARDevelopment\Vuforia_AR\terst_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Repositorios\Unity3D_ARDevelopment\Vuforia_AR\terst_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Repositorios\Unity3D_ARDevelopment\Vuforia_AR\terst_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Repositorios\Unity3D_ARDevelopment\Vuforia_AR\terst_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Repositorios\Unity3D_ARDevelopment\Vuforia_AR\terst_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Repositorios\Unity3D_ARDevelopment\Vuforia_AR\terst_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Repositorios\Unity3D_ARDevelopment\Vuforia_AR\terst_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Repositorios\Unity3D_ARDevelopment\Vuforia_AR\terst_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Repositorios\Unity3D_ARDevelopment\Vuforia_AR\terst_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Repositorios\Unity3D_ARDevelopment\Vuforia_AR\terst_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Repositorios\Unity3D_ARDevelopment\Vuforia_AR\terst_Data\Managed\Vuforia.UnityExtensions.dll (this message is harmless)
+Loading D:\Repositorios\Unity3D_ARDevelopment\Vuforia_AR\terst_Data\Managed\Vuforia.UnityExtensions.dll into Unity Child Domain
+- Completed reload, in  0.254 seconds
+Platform assembly: D:\Repositorios\Unity3D_ARDevelopment\Vuforia_AR\terst_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Repositorios\Unity3D_ARDevelopment\Vuforia_AR\terst_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on VuforiaAbstractBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Mono/MonoScriptCache.cpp Line: 376)
+
+OnLevelWasLoaded was found on VuforiaBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Mono/MonoScriptCache.cpp Line: 376)
+
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
